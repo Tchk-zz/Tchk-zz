@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Tchk-zz GitHub profile</title><desc id="desc">Purple profile banner for Tchk-zz</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080812"/><stop offset=".52" stop-color="#21163d"/><stop offset="1" stop-color="#421d78"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+<radialGradient id="orb"><stop stop-color="#c4b5fd" stop-opacity=".75"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#ddd6fe" stroke-opacity=".055"/></pattern>
+<filter id="glow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="340" rx="30" fill="url(#bg)"/><rect width="1200" height="340" rx="30" fill="url(#grid)"/>
+<circle cx="1015" cy="165" r="230" fill="url(#orb)"/><path d="M0 285c210-58 355 46 590-1s414-22 610 12v44H0z" fill="#8b5cf6" fill-opacity=".1"/>
+<g transform="translate(72 65)" font-family="Segoe UI,Arial,sans-serif"><text y="70" fill="#fff" font-size="66" font-weight="800" letter-spacing="4">TCHK-ZZ</text><rect y="94" width="455" height="5" rx="3" fill="url(#accent)"/><text y="143" fill="#ddd6fe" font-size="25" font-weight="500">Windows tools · Python · Open source</text><g transform="translate(0 176)" font-size="16" font-weight="600"><rect width="156" height="42" rx="21" fill="#fff" fill-opacity=".09" stroke="#a78bfa" stroke-opacity=".45"/><text x="24" y="27" fill="#f5f3ff">BUILD • AUDIT</text><g transform="translate(170)"><rect width="176" height="42" rx="21" fill="#fff" fill-opacity=".09" stroke="#22d3ee" stroke-opacity=".4"/><text x="24" y="27" fill="#ecfeff">DESIGN • SHIP</text></g></g></g>
+<g transform="translate(880 62)" filter="url(#glow)"><path d="M57 64 88 20l31 39c17-7 35-7 52 0l31-39 31 44v105c0 62-49 111-109 111S15 231 15 169V64h42z" fill="#171329" stroke="#c4b5fd" stroke-width="8" stroke-linejoin="round"/><ellipse cx="86" cy="142" rx="13" ry="18" fill="#22d3ee"/><ellipse cx="162" cy="142" rx="13" ry="18" fill="#22d3ee"/><circle cx="90" cy="136" r="4" fill="#fff"/><circle cx="166" cy="136" r="4" fill="#fff"/><path d="m113 176 22 0-11 11z" fill="#f0abfc"/><path d="M124 187c-2 19-28 20-36 8m36-8c2 19 28 20 36 8" fill="none" stroke="#ddd6fe" stroke-width="5" stroke-linecap="round"/></g>
+<rect x="1" y="1" width="1198" height="338" rx="29" fill="none" stroke="#a78bfa" stroke-opacity=".3" stroke-width="2"/>
+</svg>
